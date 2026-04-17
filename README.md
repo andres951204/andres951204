@@ -25,16 +25,20 @@ Before LifeLoop, I spent four years at **Obvio Latam** as a Senior Frontend Deve
 
 ---
 
-## 🔭 Current Side Project
+## 📱 Mi Bolsillo — My Personal Finance App (live in production)
 
-I'm building a **personal finance mobile app** with Expo and React Native — end-to-end, from UI to native integrations:
+A personal finance mobile app I designed, built, and shipped solo — now available on iOS and Android.
 
-- TypeScript throughout
-- RevenueCat for iOS in-app purchases (sandbox tested, config plugins aligned with App Store Connect)
+🔗 **[mi-bolsillo-3c153.web.app](https://mi-bolsillo-3c153.web.app/)** — landing page with download links for the App Store and Google Play.
+
+**Stack and what's under the hood:**
+- **React Native + Expo** with **TypeScript** end-to-end
+- **RevenueCat** integration for iOS/Android in-app purchases (sandbox tested, Expo config plugins, App Store Connect product alignment)
+- Full release pipeline: builds, store submissions, and post-launch iteration on real users
 - AI-assisted developer tooling that auto-generates user-facing changelogs from git commits
-- Branding and marketing layer built alongside the product
+- Brand identity, marketing assets, and promotional content built alongside the product
 
-It's where I push on the parts of the stack I don't get to touch at work.
+This is where I own every part of the product — from architecture decisions to the App Store screenshots — and it's where I get to push on the parts of the stack I don't always touch at work.
 
 ---
 
